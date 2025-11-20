@@ -1,0 +1,14 @@
+/Users/alirezzak/Library/CloudStorage/OneDrive-Conselleriad'Educació/Clases/ED/A305/MiProyectoGit_ARL/bin/Debug/net10.0/MiProyectoGit_ARL
+/Users/alirezzak/Library/CloudStorage/OneDrive-Conselleriad'Educació/Clases/ED/A305/MiProyectoGit_ARL/bin/Debug/net10.0/MiProyectoGit_ARL.deps.json
+/Users/alirezzak/Library/CloudStorage/OneDrive-Conselleriad'Educació/Clases/ED/A305/MiProyectoGit_ARL/bin/Debug/net10.0/MiProyectoGit_ARL.runtimeconfig.json
+/Users/alirezzak/Library/CloudStorage/OneDrive-Conselleriad'Educació/Clases/ED/A305/MiProyectoGit_ARL/bin/Debug/net10.0/MiProyectoGit_ARL.dll
+/Users/alirezzak/Library/CloudStorage/OneDrive-Conselleriad'Educació/Clases/ED/A305/MiProyectoGit_ARL/bin/Debug/net10.0/MiProyectoGit_ARL.pdb
+/Users/alirezzak/Library/CloudStorage/OneDrive-Conselleriad'Educació/Clases/ED/A305/MiProyectoGit_ARL/obj/Debug/net10.0/MiProyectoGit_ARL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alirezzak/Library/CloudStorage/OneDrive-Conselleriad'Educació/Clases/ED/A305/MiProyectoGit_ARL/obj/Debug/net10.0/MiProyectoGit_ARL.AssemblyInfoInputs.cache
+/Users/alirezzak/Library/CloudStorage/OneDrive-Conselleriad'Educació/Clases/ED/A305/MiProyectoGit_ARL/obj/Debug/net10.0/MiProyectoGit_ARL.AssemblyInfo.cs
+/Users/alirezzak/Library/CloudStorage/OneDrive-Conselleriad'Educació/Clases/ED/A305/MiProyectoGit_ARL/obj/Debug/net10.0/MiProyectoGit_ARL.csproj.CoreCompileInputs.cache
+/Users/alirezzak/Library/CloudStorage/OneDrive-Conselleriad'Educació/Clases/ED/A305/MiProyectoGit_ARL/obj/Debug/net10.0/MiProyectoGit_ARL.dll
+/Users/alirezzak/Library/CloudStorage/OneDrive-Conselleriad'Educació/Clases/ED/A305/MiProyectoGit_ARL/obj/Debug/net10.0/refint/MiProyectoGit_ARL.dll
+/Users/alirezzak/Library/CloudStorage/OneDrive-Conselleriad'Educació/Clases/ED/A305/MiProyectoGit_ARL/obj/Debug/net10.0/MiProyectoGit_ARL.pdb
+/Users/alirezzak/Library/CloudStorage/OneDrive-Conselleriad'Educació/Clases/ED/A305/MiProyectoGit_ARL/obj/Debug/net10.0/MiProyectoGit_ARL.genruntimeconfig.cache
+/Users/alirezzak/Library/CloudStorage/OneDrive-Conselleriad'Educació/Clases/ED/A305/MiProyectoGit_ARL/obj/Debug/net10.0/ref/MiProyectoGit_ARL.dll

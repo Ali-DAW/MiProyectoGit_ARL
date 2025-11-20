@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "MiProyectoGit_ARL/1.0.0": {
+        "runtime": {
+          "MiProyectoGit_ARL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MiProyectoGit_ARL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
